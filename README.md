@@ -5,26 +5,28 @@ Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and
 Make sure your Games are the correct name and file type before patching!
 
 The following patches are Amstrad GX-4000 Cheat Enabled games compatible with Emulators and The Real Hardware.
-
 <br>
 </br>
 
 Barbarian II (1990)(Ocean)
-Batman - The Movie (1990)(Ocean) (Trainer)
-Batman - The Movie (1990)(Ocean)
-Burnin' Rubber (1990)(Ocean)
-Crazy Cars II (1990)(Titus)
-Dick Tracy (1990)(Titus)
-filenames.txt
-Fire and Forget II (1990)(Titus)
-Klax (1990)(Domark)
-Mystical (1990)(Infogrames)
 
+Batman - The Movie (1990)(Ocean)
+
+Burnin' Rubber (1990)(Ocean)
+
+Crazy Cars II (1990)(Titus)
+
+Dick Tracy (1990)(Titus)
+
+Fire and Forget II (1990)(Titus)
+
+Klax (1990)(Domark)
+
+Mystical (1990)(Infogrames)
 <br>
 </br>
 
 There are several options to choose from per game depending on the users needs if there are more than one cheat multiple cheat.
-
 <br>
 </br>
 
@@ -43,15 +45,22 @@ SHA256: fd3a33c75443d55506e033cace63d0c267c98f27244661d0fee723a32c80f46e
 SHA1: 8194bc2eb3af0c0d57d765dae10ea38fa5d9526b
 
 BLAKE2sp: fd1fca68f432e09f9f7c364a3d87c7e9141183c222a6120dce9ec1e9aafa4422
+<br>
+</br>
 
 // This takes to original Barbarian II (1990)(Ocean) game and creates the following:
+<br>
+</br>
 
 Barbarian II (1990)(Ocean) (Enemy Low Health).cpr
-Barbarian II (1990)(Ocean) (Infinite Health and Lives with Enemy Low Health).cpr
-Barbarian II (1990)(Ocean) (Infinite Health and Lives).cpr
-Barbarian II (1990)(Ocean) (Infinite Health).cpr
-Barbarian II (1990)(Ocean) (Infinite Lives).cpr
 
+Barbarian II (1990)(Ocean) (Infinite Health and Lives with Enemy Low Health).cpr
+
+Barbarian II (1990)(Ocean) (Infinite Health and Lives).cpr
+
+Barbarian II (1990)(Ocean) (Infinite Health).cpr
+
+Barbarian II (1990)(Ocean) (Infinite Lives).cpr
 <br>
 </br>
 
@@ -70,13 +79,18 @@ SHA256: ce9cd345140f899cbab1dc3e7bbe0d83b6859ccb59693896d02b65dcb8994ab1
 SHA1: 5093c5fa86a403f401a5d0416cf8535d4e6b4e26
 
 BLAKE2sp: 0d26444409ba4baf61093e4e55db03f2fac5bd4a6057d36d192372683df0f1f0
+<br>
+</br>
 
 // This takes to original Batman - The Movie (1990)(Ocean) game and creates the following:
+<br>
+</br>
 
 Batman - The Movie (1990)(Ocean) (Infinite Lives).cpr
-Batman - The Movie (1990)(Ocean) (Infinite Health).cpr
-Batman - The Movie (1990)(Ocean) (Infinite Health & Infinite Lives).cpr
 
+Batman - The Movie (1990)(Ocean) (Infinite Health).cpr
+
+Batman - The Movie (1990)(Ocean) (Infinite Health & Infinite Lives).cpr
 <br>
 </br>
 
@@ -95,11 +109,14 @@ SHA256: 08c81e4aeca95abaecc3c196519e2aeb63d2f805b6e18c055a7a3cf49e51a1df
 SHA1: 23ebe7747263e3a976267ca2465d29fa77c845a3
 
 BLAKE2sp: d943294c88dcb0ded6397571e307acb988bc6df5a4cbe6e75bd93d9377b99815
+<br>
+</br>
 
 // This takes to original Burnin' Rubber (1990)(Ocean) game and creates the following:
+<br>
+</br>
 
 Burnin' Rubber (1990)(Ocean) (Freeze Timer).cpr
-
 <br>
 </br>
 
@@ -118,13 +135,18 @@ SHA256: 081352c8ded2b08dda9b5e75286aea316c65491447d1ceb29b5557239048b908
 SHA1: 6b33ab5184c2af55f3b00c4d81138834bbc6fb5e
 
 BLAKE2sp: 5eb1f4626bdf90c54c6216194d09421edf49c75b5a83001098049f28f6699d91
+<br>
+</br>
 
 // This takes to original Crazy Cars II (1990)(Titus) game and creates the following:
+<br>
+</br>
 
 Crazy Cars II (1990)(Titus) (Freeze Timer).cpr
-Crazy Cars II (1990)(Titus) (Invincible).cpr
-Crazy Cars II (1990)(Titus) (Invincible and Freeze Timer).cpr
 
+Crazy Cars II (1990)(Titus) (Invincible).cpr
+
+Crazy Cars II (1990)(Titus) (Invincible and Freeze Timer).cpr
 <br>
 </br>
 
@@ -143,14 +165,20 @@ SHA256: 17300a5d607d0aa7a07508697f49336c2d34a681576e5464d1df7c1f1eeffee9
 SHA1: 115b6e400b4c293387061862efe7ece5bce62539
 
 BLAKE2sp: c7078050372135cdd1db1f5dd2ae71ac5461690756c3a5c3c19e4a4cd1a3d594
+<br>
+</br>
 
 // This takes to original Dick Tracy (1990)(Titus) game and creates the following:
+<br>
+</br>
 
 Dick Tracy (1990)(Titus) (Infinite Health).cpr
-Dick Tracy (1990)(Titus) (Infinite Lives).cpr
-Dick Tracy (1990)(Titus) (Infinite Ammo).cpr
-Dick Tracy (1990)(Titus) (Infinite Health, Lives and Ammo).cpr
 
+Dick Tracy (1990)(Titus) (Infinite Lives).cpr
+
+Dick Tracy (1990)(Titus) (Infinite Ammo).cpr
+
+Dick Tracy (1990)(Titus) (Infinite Health, Lives and Ammo).cpr
 <br>
 </br>
 
@@ -163,17 +191,24 @@ CRC64: 42F3191319E4F179
 SHA256: ce72fcf911b4b403a5012f8dedabd567c80a8af2e43e1b0646fd55468e48e794
 SHA1: 9712010b8a875fd124f30a6a06ee24d12a46654f
 BLAKE2sp: 455e4e475c41d695941c1f690c3c1b2a9e66e5521e18ed6c3bc127fa6c94357a
-
+<br>
+</br>
 
 // This takes to original Fire and Forget II (1990)(Titus) game and creates the following:
+<br>
+</br>
 
 Fire and Forget II (1990)(Titus) (Infinite Fuel).cpr
-Fire and Forget II (1990)(Titus) (Infinite Hover).cpr
-Fire and Forget II (1990)(Titus) (Infinite Fuel & Hover).cpr
-Fire and Forget II (1990)(Titus) (Infinite Fuel, Hover & Max Rockets).cpr
-Fire and Forget II (1990)(Titus) (Infinite Lives).cpr
-Fire and Forget II (1990)(Titus) (Infinite Max Rockets).cpr
 
+Fire and Forget II (1990)(Titus) (Infinite Hover).cpr
+
+Fire and Forget II (1990)(Titus) (Infinite Fuel & Hover).cpr
+
+Fire and Forget II (1990)(Titus) (Infinite Fuel, Hover & Max Rockets).cpr
+
+Fire and Forget II (1990)(Titus) (Infinite Lives).cpr
+
+Fire and Forget II (1990)(Titus) (Infinite Max Rockets).cpr
 <br>
 </br>
 
@@ -192,15 +227,16 @@ SHA256: 37cc6241bdedcce4b67bf6965191d8f7c4145a2674bc7daf50b2a6cb1d139792
 SHA1: abf4f8a05956532693c8cc9ec600dd914d89ae45
 
 BLAKE2sp: ac874670719fbff59a30c143b29b342a2a82569b72d67efc2cea52f018baf761
-
-
-// This takes to original Klax (1990)(Domark) game and creates the following:
-
-Klax (1990)(Domark) (Infinite Max Credits).cpr
-
 <br>
 </br>
 
+// This takes to original Klax (1990)(Domark) game and creates the following:
+<br>
+</br>
+
+Klax (1990)(Domark) (Infinite Max Credits).cpr
+<br>
+</br>
 
 ## Mystical (1990)(Infogrames)
 
@@ -217,14 +253,18 @@ SHA256: 8e34ee16afdd342e0fbbdc4ad57cab031c5aec0e63058f76141234dab1cca3e2
 SHA1: 35dfc292310768a5ba46fe8b641551f6a77a8ffa
 
 BLAKE2sp: a38976b09b1d4e44accb572eb1f4e3f361251a45bff3a9498e3fbddf5fe17f33
-
+<br>
+</br>
 
 // This takes to original Mystical (1990)(Infogrames) game and creates the following:
+<br>
+</br>
 
 Mystical (1990)(Infogrames) (Infinite Max Health).cpr
-Mystical (1990)(Infogrames) (Infinite Max Lives).cpr
-Mystical (1990)(Infogrames) (Infinite Max Health & Lives).cpr
 
+Mystical (1990)(Infogrames) (Infinite Max Lives).cpr
+
+Mystical (1990)(Infogrames) (Infinite Max Health & Lives).cpr
 <br>
 </br>
 
