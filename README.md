@@ -23,6 +23,8 @@ Fire and Forget II (1990)(Titus)
 Klax (1990)(Domark)
 
 Mystical (1990)(Infogrames)
+
+No Exit
 <br>
 </br>
 
