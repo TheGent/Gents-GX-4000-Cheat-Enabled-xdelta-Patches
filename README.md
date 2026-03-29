@@ -268,6 +268,32 @@ Mystical (1990)(Infogrames) (Infinite Max Health & Lives).cpr
 <br>
 </br>
 
+## No Exit (1990)(Tomahawk)
+
+Name: No Exit (1990)(Tomahawk).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: DE25EE9D
+
+CRC64: 113C16836F4590AB
+
+SHA256: 24b61c4e913ebe991511019a56e92168794222e2a214bd7c09045e50f348dfbf
+
+SHA1: d7f32c48aeffc3a721c4ecf45f77ac0a2a4ca90b
+
+BLAKE2sp: 8eec779dca71e435fb0db23a147168611012a3cfe9c0222c10f9bae74ceb1adc
+<br>
+</br>
+
+// This takes to original No Exit (1990)(Tomahawk) game and creates the following:
+
+No Exit (1990)(Tomahawk) (Infinite Health Player 1).cpr
+No Exit (1990)(Tomahawk) (Low Health Player 2).cpr
+No Exit (1990)(Tomahawk) (Infinite Health Player 1 & Low Health Player 2).cpr
+<br>
+</br>
+
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
 </p>
