@@ -296,6 +296,45 @@ No Exit (1990)(Tomahawk) (Infinite Health Player 1 & Low Health Player 2).cpr
 <br>
 </br>
 
+## Operation Thunderbolt
+
+Name: Operation Thunderbolt (1990)(Ocean).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: AB7CC2F4
+
+CRC64: 9B6B7798E3100A6A
+
+SHA256: f974992d08bb2e775aa6d5f80eabb1e3cab1dcad7d9830fff8cee7465bede862
+
+SHA1: 2ca4c437d014847b680b1850cadd36efe5672892
+
+BLAKE2sp: d19b2bdbdecb630aa4d06cca18e219de1d82197b2f18b2c27f6261489abeacbf
+<br>
+</br>
+
+// This takes to original Operation Thunderbolt (1990)(Ocean) game and creates the following:
+
+Operation Thunderbolt (1990)(Ocean) (Always Have Laser Sight Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Always Have Laser Sight Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite Missles Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades & Missiles Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades & Missiles Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades & Missiles Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades & Missiles Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades, Missiles & Laser Sight Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite  Health,Grenades, Missiles & Laser Sight Player 1).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite Health Player 1 & 2).cpr
+Operation Thunderbolt (1990)(Ocean) (Infinite Health Player 1).cpr
+
+<br>
+</br>
+
+
+
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
 </p>
