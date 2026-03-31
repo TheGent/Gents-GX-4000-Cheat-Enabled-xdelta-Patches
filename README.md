@@ -25,6 +25,14 @@ Klax (1990)(Domark)
 Mystical (1990)(Infogrames)
 
 No Exit
+
+Operation Thunderbolt
+
+Pang
+
+Panza Kick Boxing
+
+Plotting
 <br>
 </br>
 
