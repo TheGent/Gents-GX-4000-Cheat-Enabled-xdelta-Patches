@@ -360,6 +360,35 @@ Pang (1990)(Ocean) (Infinite Lives , Ammo & Freeze Timer Player 1 & 2).cpr
 <br>
 </br>
 
+## Panza Kick Boxing
+
+Name: Panza Kick Boxing (1991)(Loriciel).cpr
+
+Size: 131148 bytes (128 KiB)
+
+CRC32: 8DACBEEE
+
+CRC64: E7D8BA0470A68A52
+
+SHA256: cca06a92e184d666b44cefdfe0c7bbc8de98a40f3375c092c3e805f0a53f6149
+
+SHA1: 4b7e88f1e939172ac5d3b48aadcb978cb1d93f9f
+
+BLAKE2sp: dcee8fb6fa754133ba447b6f73df7fbcb1be09a77fea84876473a715404d9651
+<br>
+</br>
+
+// This takes to original Panza Kick Boxing (1991)(Loriciel) game and creates the following:
+
+Panza Kick Boxing (1991)(Loriciel) (Freeze Timer at 1.60).cpr
+Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A & Freeze Timer at 1.60).cpr
+Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A).cpr
+Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A, Freeze Timer at 1.60 & One Hit to Kill Player B).cpr
+Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A, One Hit to Kill Player B).cpr
+Panza Kick Boxing (1991)(Loriciel) (IOne Hit to Kill Player B).cpr
+
+<br>
+</br>
 
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
