@@ -390,6 +390,33 @@ Panza Kick Boxing (1991)(Loriciel) (IOne Hit to Kill Player B).cpr
 <br>
 </br>
 
+## Plotting 
+
+Name: Plotting (1990)(Ocean).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: 625D92D6
+
+CRC64: CEFB73E74AD6D6AC
+
+SHA256: 17b89b2b7b95b711a80ca6a849cb0436dbdfe774d5cd48758dd070bb12999375
+
+SHA1: 49ab2a2788d79228d64441657ded9db736c98a24
+
+BLAKE2sp: c7b7db51da399094f49babee56ed8865af084124f3327bf82e1ed9b7a66437f4
+<br>
+</br>
+
+// This takes to original Plotting (1990)(Ocean) game and creates the following:
+
+Plotting (1990)(Ocean) (Freeze Player 1 Timer).cpr
+Plotting (1990)(Ocean) (Freeze Player 2 Timer).cpr
+Plotting (1990)(Ocean) (Freeze Player 1 & 2 Timer).cpr
+
+<br>
+</br>
+
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
 </p>
