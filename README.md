@@ -333,6 +333,32 @@ Operation Thunderbolt (1990)(Ocean) (Infinite Health Player 1).cpr
 <br>
 </br>
 
+## Pang
+
+Name: Pang (1990)(Ocean).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: 87632953
+
+CRC64: A7FEBC4067C84DBC
+
+SHA256: d907ca639af4591e2ce0382b4814c6fe4a7278efac82a94612b70ea87c7df329
+
+SHA1: df74efe5dcb9049588c3a766ad04126f056e2ac9
+
+BLAKE2sp: f0b0c4b097fcf6673b413d42a24902840711664d5d15aba510cfbd648f828def
+<br>
+</br>
+
+// This takes to original Pang (1990)(Ocean)) game and creates the following:
+
+Pang (1990)(Ocean) (Infinite Lives Player 1 & 2).cpr
+Pang (1990)(Ocean) (Infinite Lives & Ammo Player 1 & 2).cpr
+Pang (1990)(Ocean) (Infinite Lives , Ammo & Freeze Timer Player 1 & 2).cpr
+
+<br>
+</br>
 
 
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
