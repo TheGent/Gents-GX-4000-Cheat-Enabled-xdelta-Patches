@@ -301,7 +301,9 @@ BLAKE2sp: 8eec779dca71e435fb0db23a147168611012a3cfe9c0222c10f9bae74ceb1adc
 // This takes to original No Exit (1990)(Tomahawk) game and creates the following:
 
 No Exit (1990)(Tomahawk) (Infinite Health Player 1).cpr
+
 No Exit (1990)(Tomahawk) (Low Health Player 2).cpr
+
 No Exit (1990)(Tomahawk) (Infinite Health Player 1 & Low Health Player 2).cpr
 <br>
 </br>
@@ -327,17 +329,29 @@ BLAKE2sp: d19b2bdbdecb630aa4d06cca18e219de1d82197b2f18b2c27f6261489abeacbf
 // This takes to original Operation Thunderbolt (1990)(Ocean) game and creates the following:
 
 Operation Thunderbolt (1990)(Ocean) (Always Have Laser Sight Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Always Have Laser Sight Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite Missles Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades & Missiles Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades & Missiles Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Grenades Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades & Missiles Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades & Missiles Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Health, Grenades, Missiles & Laser Sight Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite  Health,Grenades, Missiles & Laser Sight Player 1).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite Health Player 1 & 2).cpr
+
 Operation Thunderbolt (1990)(Ocean) (Infinite Health Player 1).cpr
 
 <br>
@@ -364,7 +378,9 @@ BLAKE2sp: f0b0c4b097fcf6673b413d42a24902840711664d5d15aba510cfbd648f828def
 // This takes to original Pang (1990)(Ocean)) game and creates the following:
 
 Pang (1990)(Ocean) (Infinite Lives Player 1 & 2).cpr
+
 Pang (1990)(Ocean) (Infinite Lives & Ammo Player 1 & 2).cpr
+
 Pang (1990)(Ocean) (Infinite Lives , Ammo & Freeze Timer Player 1 & 2).cpr
 
 <br>
@@ -391,10 +407,15 @@ BLAKE2sp: dcee8fb6fa754133ba447b6f73df7fbcb1be09a77fea84876473a715404d9651
 // This takes to original Panza Kick Boxing (1991)(Loriciel) game and creates the following:
 
 Panza Kick Boxing (1991)(Loriciel) (Freeze Timer at 1.60).cpr
+
 Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A & Freeze Timer at 1.60).cpr
+
 Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A).cpr
+
 Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A, Freeze Timer at 1.60 & One Hit to Kill Player B).cpr
+
 Panza Kick Boxing (1991)(Loriciel) (Infinite Health Player A, One Hit to Kill Player B).cpr
+
 Panza Kick Boxing (1991)(Loriciel) (IOne Hit to Kill Player B).cpr
 
 <br>
@@ -421,7 +442,9 @@ BLAKE2sp: c7b7db51da399094f49babee56ed8865af084124f3327bf82e1ed9b7a66437f4
 // This takes to original Plotting (1990)(Ocean) game and creates the following:
 
 Plotting (1990)(Ocean) (Freeze Player 1 Timer).cpr
+
 Plotting (1990)(Ocean) (Freeze Player 2 Timer).cpr
+
 Plotting (1990)(Ocean) (Freeze Player 1 & 2 Timer).cpr
 
 <br>
@@ -430,11 +453,17 @@ Plotting (1990)(Ocean) (Freeze Player 1 & 2 Timer).cpr
 ## Robocop 2
 
 Name: Robocop 2 (1990)(Ocean).cpr
+
 Size: 524556 bytes (512 KiB)
+
 CRC32: 0BA0DC98
+
 CRC64: 1041BACDCFE82799
+
 SHA256: 9b06b8788929034a464f56fa8283e3cd2390dae00672e4577c3a7312e2cefcb2
+
 SHA1: fa0dacb89f5a655485f93cae5d8d39d8eda5377a
+
 BLAKE2sp: a00ed07ebaa70b434936a4aab52623cc654bc53732b66f3d1b769f9275faec97
 <br>
 </br>
@@ -442,11 +471,17 @@ BLAKE2sp: a00ed07ebaa70b434936a4aab52623cc654bc53732b66f3d1b769f9275faec97
 // This takes to original Robocop 2 (1990)(Ocean) game and creates the following:
 
 Robocop 2 (1990)(Ocean) (Freeze Timer).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Health & Freeze Timer).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Health).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Lives & Freeze Timer).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Lives & Health).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Lives).cpr
+
 Robocop 2 (1990)(Ocean) (Infinite Lives, Health & Freeze Timer).cpr
 
 
