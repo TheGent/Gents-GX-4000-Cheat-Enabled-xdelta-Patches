@@ -35,6 +35,8 @@ Panza Kick Boxing
 Plotting
 
 Robocop 2
+
+Switchblade
 <br>
 </br>
 
@@ -487,6 +489,42 @@ Robocop 2 (1990)(Ocean) (Infinite Lives, Health & Freeze Timer).cpr
 
 <br>
 </br>
+
+## Switchblade
+
+Name: Switchblade (1990)(Gremlin).cpr
+
+Size: 131156 bytes (128 KiB)
+
+CRC32: 29E71F0C
+
+CRC64: C0F90AD276CBD49C
+
+SHA256: e025524a008858fb9fbe60e41651144f0f439e03518be4bdd0e44b16987e9ab0
+
+SHA1: 38c29ca5f82393e41b5d641c7b4f337381e18827
+
+BLAKE2sp: dbc223000a396b0f61aa0f873607056e759067f5dd17781be1d68bdce1595f60
+<br>
+</br>
+
+// This takes to original Switchblade (1990)(Gremlin) game and creates the following:
+
+Switchblade (1990)(Gremlin) (Infinite Health & Lives).cpr
+
+Switchblade (1990)(Gremlin) (Infinite Health & Power).cpr
+
+Switchblade (1990)(Gremlin) (Infinite Health).cpr
+
+Switchblade (1990)(Gremlin) (Infinite Health, Power & Lives).cpr
+
+Switchblade (1990)(Gremlin) (Infinite Lives).cpr
+
+Switchblade (1990)(Gremlin) (Infinite Power).cpr
+
+<br>
+</br>
+
 
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
