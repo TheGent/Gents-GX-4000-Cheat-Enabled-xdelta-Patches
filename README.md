@@ -33,6 +33,8 @@ Pang
 Panza Kick Boxing
 
 Plotting
+
+Robocop 2
 <br>
 </br>
 
@@ -421,6 +423,32 @@ BLAKE2sp: c7b7db51da399094f49babee56ed8865af084124f3327bf82e1ed9b7a66437f4
 Plotting (1990)(Ocean) (Freeze Player 1 Timer).cpr
 Plotting (1990)(Ocean) (Freeze Player 2 Timer).cpr
 Plotting (1990)(Ocean) (Freeze Player 1 & 2 Timer).cpr
+
+<br>
+</br>
+
+## Robocop 2
+
+Name: Robocop 2 (1990)(Ocean).cpr
+Size: 524556 bytes (512 KiB)
+CRC32: 0BA0DC98
+CRC64: 1041BACDCFE82799
+SHA256: 9b06b8788929034a464f56fa8283e3cd2390dae00672e4577c3a7312e2cefcb2
+SHA1: fa0dacb89f5a655485f93cae5d8d39d8eda5377a
+BLAKE2sp: a00ed07ebaa70b434936a4aab52623cc654bc53732b66f3d1b769f9275faec97
+<br>
+</br>
+
+// This takes to original Robocop 2 (1990)(Ocean) game and creates the following:
+
+Robocop 2 (1990)(Ocean) (Freeze Timer).cpr
+Robocop 2 (1990)(Ocean) (Infinite Health & Freeze Timer).cpr
+Robocop 2 (1990)(Ocean) (Infinite Health).cpr
+Robocop 2 (1990)(Ocean) (Infinite Lives & Freeze Timer).cpr
+Robocop 2 (1990)(Ocean) (Infinite Lives & Health).cpr
+Robocop 2 (1990)(Ocean) (Infinite Lives).cpr
+Robocop 2 (1990)(Ocean) (Infinite Lives, Health & Freeze Timer).cpr
+
 
 <br>
 </br>
