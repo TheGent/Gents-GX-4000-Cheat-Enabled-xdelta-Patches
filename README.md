@@ -37,6 +37,8 @@ Plotting
 Robocop 2
 
 Switchblade
+
+The Enforcer
 <br>
 </br>
 
@@ -521,6 +523,36 @@ Switchblade (1990)(Gremlin) (Infinite Health, Power & Lives).cpr
 Switchblade (1990)(Gremlin) (Infinite Lives).cpr
 
 Switchblade (1990)(Gremlin) (Infinite Power).cpr
+
+<br>
+</br>
+
+## The Enforcer
+
+Name: The Enforcer (1990)(Trojan).cpr
+
+Size: 131148 bytes (128 KiB)
+
+CRC32: 74EC2EAF
+
+CRC64: E94DAC19B608A08A
+
+SHA256: f43ff84a0e671b835e7bbb12977e4370b2467b5f57a0d3c5ed88e8bd010ac860
+
+SHA1: 56fa6b5636f9135ddff25bae0cb26bf5acb00022
+
+BLAKE2sp: 40a7131b746bff1275874d7fc9411c443f5be92c11c56f016a8d5199f7e679e9
+<br>
+</br>
+
+// This takes to original SThe Enforcer (1990)(Trojan) game and creates the following:
+
+The Enforcer (1990)(Trojan) (Infinite Ammo).cpr
+
+The Enforcer (1990)(Trojan) (No Damage & Infinite Ammo).cpr
+
+The Enforcer (1990)(Trojan) (No Damage).cpr
+
 
 <br>
 </br>
