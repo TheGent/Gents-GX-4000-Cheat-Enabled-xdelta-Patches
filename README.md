@@ -39,6 +39,8 @@ Robocop 2
 Switchblade
 
 The Enforcer
+
+Wild Streets
 <br>
 </br>
 
@@ -488,7 +490,6 @@ Robocop 2 (1990)(Ocean) (Infinite Lives).cpr
 
 Robocop 2 (1990)(Ocean) (Infinite Lives, Health & Freeze Timer).cpr
 
-
 <br>
 </br>
 
@@ -545,7 +546,7 @@ BLAKE2sp: 40a7131b746bff1275874d7fc9411c443f5be92c11c56f016a8d5199f7e679e9
 <br>
 </br>
 
-// This takes to original SThe Enforcer (1990)(Trojan) game and creates the following:
+// This takes to original The Enforcer (1990)(Trojan) game and creates the following:
 
 The Enforcer (1990)(Trojan) (Infinite Ammo).cpr
 
@@ -553,10 +554,37 @@ The Enforcer (1990)(Trojan) (No Damage & Infinite Ammo).cpr
 
 The Enforcer (1990)(Trojan) (No Damage).cpr
 
-
 <br>
 </br>
 
+## Wild Streets
+
+Name: Wild Streets (1990)(Titus).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: 946C80B4
+
+CRC64: D32CE20913425A62
+
+SHA256: fffd836cea8697397e826106ac081c970a1c5d075806ffb787c3562ff53ced6c
+
+SHA1: 4aebabe556a968be0ffe56cc3f3e12886b58cf7f
+
+BLAKE2sp: ad58319626e0e365494d6c0018cef372ce327fd0fb7a0e355255c1fc37bfa27f
+<br>
+</br>
+
+// This takes to original Wild Streets (1990)(Titus) game and creates the following:
+
+Wild Streets (1990)(Titus) (Infinite Ammo).cpr
+
+Wild Streets (1990)(Titus) (Infinite Health & Ammo).cpr
+
+Wild Streets (1990)(Titus) (Infinite Health).cpr
+
+<br>
+</br>
 
 I hope you enjoy playing these games on your Emulator or Flashcart via your Console as much as I did.
 <p>
