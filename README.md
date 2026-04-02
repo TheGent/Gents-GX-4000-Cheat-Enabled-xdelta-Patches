@@ -41,6 +41,8 @@ Switchblade
 The Enforcer
 
 Wild Streets
+
+Navy Seals
 <br>
 </br>
 
@@ -285,6 +287,76 @@ Mystical (1990)(Infogrames) (Infinite Max Lives).cpr
 Mystical (1990)(Infogrames) (Infinite Max Health & Lives).cpr
 <br>
 </br>
+
+## Navy Seals
+
+Name: Navy Seals (1990)(Ocean).cpr
+
+Size: 524556 bytes (512 KiB)
+
+CRC32: DE3A4FF6
+
+CRC64: A99183182D384A52
+
+SHA256: 1b58d180c72d4e740f7d0d1470f2a1ff9998a240fac4dc79c6a8723886593342
+
+SHA1: 2e251eb245e6439691ab5c83179ebae6e6285e44
+
+BLAKE2sp: 896ae2b5ae42a0d5247d04aa6ce679e3db26033b0458a513ed9f2318b64962d5
+<br>
+</br>
+
+// This takes to original Navy Seals (1990)(Ocean) game and creates the following:
+<br>
+</br>
+
+Navy Seals (1990)(Ocean) (Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Infinite Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Infinite Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Infinite Lives).cpr
+
+Navy Seals (1990)(Ocean) (Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 2 with - Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 2 with - Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 3 with - Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 3 with - Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 4 with - Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 4 with - Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 5 with - Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 5 with - Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 6 - Mission 2 with - Infinite Lives & Ammo).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 6 - Mission 2 with - Infinite Lives, Ammo & Immune From Enemy Fire).cpr
+
+
+Start On Level Only:
+
+Navy Seals (1990)(Ocean) (Start on Level 2).cpr
+
+Navy Seals (1990)(Ocean) (Start on Level 3).cpr
+
+Navy Seals (1990)(Ocean) (Start on Level 4).cpr
+
+Navy Seals (1990)(Ocean) (Start on Level 5).cpr
+
+Navy Seals (1990)(Ocean) (Start On Level 6 - Mission 2).cpr
+<br>
+</br>
+
 
 ## No Exit (1990)(Tomahawk)
 
