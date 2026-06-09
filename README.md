@@ -196,9 +196,13 @@ Dick Tracy (1990)(Titus) (Infinite Health).cpr
 
 Dick Tracy (1990)(Titus) (Infinite Lives).cpr
 
-Dick Tracy (1990)(Titus) (Infinite Ammo).cpr
+Dick Tracy (1990)(Titus) (Infinite Ammo).cpr // On pickup
 
-Dick Tracy (1990)(Titus) (Infinite Health, Lives and Ammo).cpr
+Dick Tracy (1990)(Titus) (Start with Infinite Max Ammo all guns).cpr
+
+Dick Tracy (1990)(Titus) (Infinite Health, Lives and Ammo).cpr  // Infinite Ammo On pickup
+
+Dick Tracy (1990)(Titus) (Start with Infinite Max Ammo all guns, Infinite Health & Lives).cpr
 <br>
 </br>
 
